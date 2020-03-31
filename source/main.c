@@ -1,27 +1,5 @@
 /*
 -------------------------------------------------
-
-	NightFox's Lib Template
-	Ejemplo de mapas de colisiones
-
-	Requiere DevkitARM
-	Requiere NightFox's Lib
-
-	Codigo por NightFox
-	http://www.nightfoxandco.com
-	Inicio 10 de Octubre del 2009
-
-	(c)2009 - 2011 NightFox & Co.
-
--------------------------------------------------
-*/
-
-
-
-
-
-/*
--------------------------------------------------
 	Includes
 -------------------------------------------------
 */
